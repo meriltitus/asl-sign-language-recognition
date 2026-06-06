@@ -1,4 +1,4 @@
-# ASL_Detection_mini_project
+# asl-sign-language-recognition
 
 A real-time American Sign Language (ASL) alphabet detection system using computer vision and machine learning.
 
